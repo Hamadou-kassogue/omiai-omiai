@@ -1,0 +1,19 @@
+html{
+    font-size: 22px;
+}
+
+caption,table, th, tr, td{
+    border: 1px solid gray;
+    border-collapse: separate;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0.5rem;
+}
+
+body {
+    min-height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 2px solid #333;
+    border-right: 2px solid #333;
+}
